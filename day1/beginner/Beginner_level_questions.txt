@@ -1,0 +1,12 @@
+Beginner Level:
+1.Determine if a number is even or odd:
+* Using the modulus operator (%).
+* Using the floor division method.
+* Using bitwise operations (&).
+2.Find the maximum of three numbers.
+3.Print the multiplication table of a given number.
+4.Count even numbers in a given range.
+5.Swap two variables:
+* Using a third variable.
+* Without using a third variable.
+* Using XOR.

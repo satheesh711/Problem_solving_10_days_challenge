@@ -1,0 +1,7 @@
+Beginner Level:
+
+1. Find the LCM of two numbers.
+2. Find the GCD of two numbers.
+3. Check if a number is a perfect number.
+4. Check if a number is a perfect square.
+

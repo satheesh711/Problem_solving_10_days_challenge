@@ -1,0 +1,5 @@
+Intermediate Level:
+
+1. Find the sum of prime digits in a number.
+2. Find the nearest prime number to a given number.
+3. Find all twin primes in a given range.

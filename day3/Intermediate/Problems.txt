@@ -1,0 +1,4 @@
+Intermediate Level:
+1. Write 20 methods for an array, with one example for each.  
+2. Find the second maximum in a given array without sorting it.  
+3. Find the length of an array without using the length property.

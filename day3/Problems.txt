@@ -1,0 +1,12 @@
+10-Day Problem-Solving Challenge
+Day 3: 
+
+Beginner Level:
+1. Print the Fibonacci series.  
+2. Check if a number is a strong number.  
+3. Check if a number is an Armstrong number.  
+
+Intermediate Level:
+1. Write 20 methods for an array, with one example for each.  
+2. Find the second maximum in a given array without sorting it.  
+3. Find the length of an array without using the length property.

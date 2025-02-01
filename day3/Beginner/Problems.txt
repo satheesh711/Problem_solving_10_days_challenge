@@ -1,0 +1,4 @@
+Beginner Level:
+1. Print the Fibonacci series.  
+2. Check if a number is a strong number.  
+3. Check if a number is an Armstrong number.  
